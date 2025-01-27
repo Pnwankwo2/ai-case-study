@@ -45,7 +45,7 @@ Case Study for AI - OpenAI
 
 ### Selected Company: OpenAI
 
-OpenAI was and emerging technology when began this course and has since become a leading artificial intelligence research and deployment company based in San Francisco, California. Founded in 2015, OpenAI focuses on developing and ensuring artificial general intelligence (AGI) benefits all of humanity. Its primary activities include research, product development, and deploying machine learning models.
+OpenAI was an emerging technology when we began this course and has since become a leading artificial intelligence research and deployment company based in San Francisco, California. Founded in 2015, OpenAI focuses on developing and ensuring artificial general intelligence (AGI) benefits all of humanity. Its primary activities include research, product development, and deploying machine learning models.
 I was personally using this technology for research even as limited resource.
 
 ### Field, Audience, Solution, and Business Metrics
@@ -87,7 +87,8 @@ Sources utilized for this analysis:
 2. News articles and industry analyses from **TechCrunch**, **VentureBeat**, and **Forbes**.
 3. Research papers and whitepapers published by OpenAI and competitors.
 
-> "By scaling up models and incorporating multimodal approaches, We are seeing unprecedented versatility and Capabilities and capabilities in AI." – [OpenAI Blog](https://openai.com/blog)
+> "By scaling up models and incorporating multimodal approaches, We are seeing unprecedented versatility and Capabilities and capabilities in AI."
+ – [OpenAI Blog](https://openai.com/blog)
 
 ## Recommendations
 
